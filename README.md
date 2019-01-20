@@ -1,6 +1,6 @@
 # PerspectiveTransform
 
-我的题目是对照片中倾斜的白纸进行纠偏，将图像中的主体白纸从不规则的视角转为矩形。个人理解为视角的转换，转移到主体上方观察。
+我的题目是对照片中倾斜的白纸进行纠偏，将图像中的主体白纸从不规则的视角转为矩形。
 
 
  ![demo](https://github.com/ljsdyspg/PerspectiveTransform/blob/master/screenshot.png)
